@@ -23,6 +23,90 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
     <tr>
     
       <td align="center">
+        <h3>2</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+    </tr>
+    
+    <tr>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+    </tr>
+    
+    <tr>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+    </tr>
+    
+    <tr>
+    
+      <td align="center">
         <h3>0</a>
         </br>
         <img width="99" height="0">
@@ -41,91 +125,7 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
       </td>
     
       <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-    </tr>
-    
-    <tr>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-    </tr>
-    
-    <tr>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
         <h3>2</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-    </tr>
-    
-    <tr>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
         </br>
         <img width="99" height="0">
       </td>
