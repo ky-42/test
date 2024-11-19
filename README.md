@@ -10,13 +10,13 @@
 
 This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game)). Click the links to make a move and please don't spam it :). The current score is 0 and the highscore is 0 which was set on None.
 
-<a href="/click/1">Up</a>
+<a href="http://127.0.0.1:5000/click/1">Up</a>
 
 </br>
 
 <div>
 
-  <a href="/click/2">Left</a>
+  <a href="http://127.0.0.1:5000/click/2">Left</a>
 
   <table align="center">
     
@@ -134,10 +134,10 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
     
   </table>
 
-  <a href="/click/3">Right</a>
+  <a href="http://127.0.0.1:5000/click/3">Right</a>
 
 </div>
 
 </br>
 
-<a href="/click/2">Down</a>
+<a href="http://127.0.0.1:5000/click/2">Down</a>
