@@ -8,7 +8,7 @@
 
 </br>
 
-This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game)). Click the links to make a move and please don't spam it :). The current score is 20 and the highscore is 0 which was set on None.
+This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game)). Click the links to make a move and please don't spam it :). The current score is 24 and the highscore is 0 which was set on None.
 
 <a href="http://127.0.0.1:5000/click/1">Up</a>
 
@@ -23,7 +23,7 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
   <tr>
   
   <td align="center">
-    <h3>2</a>
+    <h3>4</a>
     </br>
     <img width="99" height="0">
   </td>
@@ -35,7 +35,7 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
   </td>
   
   <td align="center">
-    <h3>2</a>
+    <h3>0</a>
     </br>
     <img width="99" height="0">
   </td>
@@ -91,7 +91,7 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
   </td>
   
   <td align="center">
-    <h3>0</a>
+    <h3>2</a>
     </br>
     <img width="99" height="0">
   </td>
@@ -107,25 +107,25 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
   <tr>
   
   <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
     <h3>2</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
     </br>
     <img width="99" height="0">
   </td>
