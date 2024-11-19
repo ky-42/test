@@ -19,119 +19,119 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
   <a href="http://127.0.0.1:5000/click/2">Left</a>
 
   <table align="center">
-    
-    <tr>
-    
-      <td align="center">
-        <h3>2</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-    </tr>
-    
-    <tr>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-    </tr>
-    
-    <tr>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-    </tr>
-    
-    <tr>
-    
-      <td align="center">
-        <h3>0</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>2</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>4</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-      <td align="center">
-        <h3>2</a>
-        </br>
-        <img width="99" height="0">
-      </td>
-    
-    </tr>
-    
+  
+  <tr>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>2</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  </tr>
+  
+  <tr>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  </tr>
+  
+  <tr>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  </tr>
+  
+  <tr>
+  
+  <td align="center">
+    <h3>2</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>2</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>4</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>2</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  </tr>
+  
   </table>
 
   <a href="http://127.0.0.1:5000/click/3">Right</a>
