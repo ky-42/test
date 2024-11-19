@@ -20,117 +20,117 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
 
   <table align="center">
     
-      <tr>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>2</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-      </tr>
+    <tr>
     
-      <tr>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-      </tr>
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
     
-      <tr>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>2</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-      </tr>
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
     
-      <tr>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-          <td align="center">
-            <h3>0</a>
-            </br>
-            <img width="99" height="0">
-          </td>
-        
-      </tr>
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>2</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+    </tr>
+    
+    <tr>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+    </tr>
+    
+    <tr>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>2</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+    </tr>
+    
+    <tr>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+      <td align="center">
+        <h3>0</a>
+        </br>
+        <img width="99" height="0">
+      </td>
+    
+    </tr>
     
   </table>
 
