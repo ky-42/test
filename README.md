@@ -8,7 +8,7 @@
 
 </br>
 
-This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game)). Click the links to make a move and please don't spam it :). The current score is 8 and the highscore is 0 which was set on None.
+This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game)). Click the links to make a move and please don't spam it :). The current score is 12 and the highscore is 0 which was set on None.
 
 <a href="http://127.0.0.1:5000/click/1">Up</a>
 
@@ -16,7 +16,7 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
 
 <div>
 
-  <a href="http://127.0.0.1:5000/click/2">Left</a>
+  <a href="http://127.0.0.1:5000/click/3">Left</a>
 
   <table align="center">
   
@@ -51,7 +51,35 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
   <tr>
   
   <td align="center">
+    <h3>2</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
     <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  </tr>
+  
+  <tr>
+  
+  <td align="center">
+    <h3>4</a>
     </br>
     <img width="99" height="0">
   </td>
@@ -79,41 +107,7 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
   <tr>
   
   <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
     <h3>4</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  </tr>
-  
-  <tr>
-  
-  <td align="center">
-    <h3>2</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>2</a>
     </br>
     <img width="99" height="0">
   </td>
@@ -126,6 +120,12 @@ This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game
   
   <td align="center">
     <h3>2</a>
+    </br>
+    <img width="99" height="0">
+  </td>
+  
+  <td align="center">
+    <h3>0</a>
     </br>
     <img width="99" height="0">
   </td>
