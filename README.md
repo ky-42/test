@@ -35,62 +35,30 @@
 
 <td align="center">
   </br>
-  <h3>4</a>
+  <strong>4</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>4</a>
+  <strong>4</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>8</a>
+  <strong>8</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>2</a>
+  <strong>4</strong>
   </br>
-  <img width="99" height="0">
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-  </br>
-  <h3>8</a>
-  </br>
-  <img width="99" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <h3>16</a>
-  </br>
-  <img width="99" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <h3>0</a>
-  </br>
-  <img width="99" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <h3>0</a>
-  </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 </tr>
@@ -99,30 +67,30 @@
 
 <td align="center">
   </br>
-  <h3>0</a>
+  <strong>8</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>2</a>
+  <strong>16</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>0</a>
+  <strong>0</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>0</a>
+  <strong>0</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 </tr>
@@ -131,30 +99,62 @@
 
 <td align="center">
   </br>
-  <h3>0</a>
+  <strong>2</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>0</a>
+  <strong>2</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>0</a>
+  <strong>0</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <h3>2</a>
+  <strong>0</strong>
   </br>
-  <img width="99" height="0">
+  <img width="58" height="0">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
 </td>
 
 </tr>
