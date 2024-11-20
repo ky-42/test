@@ -17,7 +17,7 @@
 
 <h3 align="center">2048</h3>
 <p align="center">
-  The current score is 24 .
+  The current score is 24.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <td align="center">
   </br>
-  <h3>2</a>
+  <h3>4</a>
   </br>
   <img width="99" height="0">
 </td>
@@ -67,7 +67,7 @@
 
 <td align="center">
   </br>
-  <h3>2</a>
+  <h3>8</a>
   </br>
   <img width="99" height="0">
 </td>
@@ -99,7 +99,7 @@
 
 <td align="center">
   </br>
-  <h3>4</a>
+  <h3>0</a>
   </br>
   <img width="99" height="0">
 </td>
@@ -131,13 +131,6 @@
 
 <td align="center">
   </br>
-  <h3>4</a>
-  </br>
-  <img width="99" height="0">
-</td>
-
-<td align="center">
-  </br>
   <h3>0</a>
   </br>
   <img width="99" height="0">
@@ -153,6 +146,13 @@
 <td align="center">
   </br>
   <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>2</a>
   </br>
   <img width="99" height="0">
 </td>
