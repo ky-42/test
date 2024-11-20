@@ -1,143 +1,165 @@
 <h3 align="center">Hello Traveler!</h3>
-<p align="center"><a href="https://kyledenief.me">Website</a> • <b>I'm Kyle</b> • <a href="https://x.com/ky421_">Twitter</a></p>
-<hr>
 
+<p align="center">
+  <a href="https://kyledenief.me">Website</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>I'm Kyle</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://x.com/ky421_">Twitter</a>
+</p>
+
+<hr>
 </br>
 
 <p align="center">I like making things.</p>
 
 </br>
 
-This is a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game)). Click the links to make a move and please don't spam it :). The current score is 24 and the highscore is 0 which was set on None.
+<h3 align="center">2048</h3>
+<p align="center">
+  The current score is 24 
+  
+</p>
 
-<a href="http://127.0.0.1:5000/click/1">Up</a>
-
-</br>
-
-<div>
-
+<p align="center">
+  &nbsp;&nbsp;
   <a href="http://127.0.0.1:5000/click/3">Left</a>
-
-  <table align="center">
-  
-  <tr>
-  
-  <td align="center">
-    <h3>4</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>2</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  </tr>
-  
-  <tr>
-  
-  <td align="center">
-    <h3>8</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>4</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  </tr>
-  
-  <tr>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>2</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  </tr>
-  
-  <tr>
-  
-  <td align="center">
-    <h3>2</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  <td align="center">
-    <h3>0</a>
-    </br>
-    <img width="99" height="0">
-  </td>
-  
-  </tr>
-  
-  </table>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://127.0.0.1:5000/click/1">Up</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://127.0.0.1:5000/click/4">Right</a>
+</p>
 
-</div>
+<table align="center">
 
-</br>
+<tr>
 
-<a href="http://127.0.0.1:5000/click/2">Down</a>
+<td align="center">
+  </br>
+  <h3>4</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>2</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>2</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>2</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+  </br>
+  <h3>8</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>4</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+  </br>
+  <h3>2</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+  </br>
+  <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>2</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <h3>0</a>
+  </br>
+  <img width="99" height="0">
+</td>
+
+</tr>
+
+</table>
+
+<p align="center"><a href="http://127.0.0.1:5000/click/2">Down</a></p>
