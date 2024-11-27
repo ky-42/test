@@ -106,7 +106,7 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -138,21 +138,21 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
   <strong>8</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
