@@ -35,20 +35,6 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>2</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
   <strong>16</strong>
   </br>
   <img width="58" height="0">
@@ -61,23 +47,23 @@
   <img width="58" height="0">
 </td>
 
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
 </tr>
 
 <tr>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
 
 <td align="center">
   </br>
@@ -93,23 +79,23 @@
   <img width="58" height="0">
 </td>
 
+<td align="center">
+  </br>
+  <strong>2</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
 </tr>
 
 <tr>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
 
 <td align="center">
   </br>
@@ -120,7 +106,21 @@
 
 <td align="center">
   </br>
-  <strong>2</strong>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -131,7 +131,7 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -161,4 +161,4 @@
 
 </table>
 
-<p align="center"><a href="http://127.0.0.1:5000//click/2">Down</a></p>
+<p align="center"><a href="http://127.0.0.1:5000/click/2">Down</a></p>
