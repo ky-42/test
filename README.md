@@ -35,14 +35,14 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>16</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>32</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -67,28 +67,28 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>128</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>64</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>2</strong>
+  <strong>32</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>2</strong>
+  <strong>16</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -99,21 +99,7 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -125,34 +111,48 @@
   <img width="58" height="0">
 </td>
 
+<td align="center">
+  </br>
+  <strong>2</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>8</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
 </tr>
 
 <tr>
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>8</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>4</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
