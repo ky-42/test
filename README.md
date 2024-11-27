@@ -17,7 +17,7 @@
 
 <h3 align="center">2048</h3>
 <p align="center">
-  The current score is 644.
+  The current score is 652.
 </p>
 
 <p align="center">
@@ -35,13 +35,6 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
   <strong>4</strong>
   </br>
   <img width="58" height="0">
@@ -50,6 +43,13 @@
 <td align="center">
   </br>
   <strong>8</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -113,14 +113,14 @@
 
 <td align="center">
   </br>
-  <strong>4</strong>
+  <strong>8</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>4</strong>
+  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
