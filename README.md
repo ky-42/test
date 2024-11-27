@@ -22,11 +22,11 @@
 
 <p align="center">
   &nbsp;&nbsp;
-  <a href="http://127.0.0.1:5000/click/3">Left</a>
+  <a href="http://127.0.0.1:5000//click/3">Left</a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://127.0.0.1:5000/click/1">Up</a>
+  <a href="http://127.0.0.1:5000//click/1">Up</a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://127.0.0.1:5000/click/4">Right</a>
+  <a href="http://127.0.0.1:5000//click/4">Right</a>
 </p>
 
 <table align="center">
@@ -35,21 +35,7 @@
 
 <td align="center">
   </br>
-  <strong>8</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>8</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>4</strong>
+  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -57,17 +43,6 @@
 <td align="center">
   </br>
   <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-  </br>
-  <strong>8</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -81,14 +56,7 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
+  <strong>4</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -96,13 +64,6 @@
 </tr>
 
 <tr>
-
-<td align="center">
-  </br>
-  <strong>4</strong>
-  </br>
-  <img width="58" height="0">
-</td>
 
 <td align="center">
   </br>
@@ -120,7 +81,46 @@
 
 <td align="center">
   </br>
+  <strong>8</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>16</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+  </br>
   <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>4</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -161,4 +161,4 @@
 
 </table>
 
-<p align="center"><a href="http://127.0.0.1:5000/click/2">Down</a></p>
+<p align="center"><a href="http://127.0.0.1:5000//click/2">Down</a></p>
